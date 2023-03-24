@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml:2:13-83
+INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml:2:13-83
+INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml:2:13-83
+	package
+		INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml
+		ADDED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml:2:13-83
+		INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml
+	xmlns:android
+		ADDED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml:2:23-81
+uses-sdk
+INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml reason: use-sdk injection requested
+INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml
+INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml
+INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml
+INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml
+	android:targetSdkVersion
+		INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml
+		ADDED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml
+		INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml
+	android:minSdkVersion
+		INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml
+		ADDED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml
+		INJECTED from /Users/damianzdunek/workspace/react-native-plugin-sample/node_modules/rtn-centered-text/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15632834104922347045.xml

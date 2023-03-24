@@ -1,0 +1,41 @@
+{
+  "modules": {
+    "RTNCenteredText": {
+      "type": "Component",
+      "components": {
+        "RTNCenteredText": {
+          "extendsProps": [
+            {
+              "type": "ReactNativeBuiltInType",
+              "knownTypeName": "ReactNativeCoreViewProps"
+            }
+          ],
+          "events": [],
+          "props": [
+            {
+              "name": "text",
+              "optional": true,
+              "typeAnnotation": {
+                "type": "StringTypeAnnotation",
+                "default": null
+              }
+            }
+          ],
+          "commands": [
+            {
+              "name": "trigger",
+              "optional": false,
+              "typeAnnotation": {
+                "type": "FunctionTypeAnnotation",
+                "params": [],
+                "returnTypeAnnotation": {
+                  "type": "VoidTypeAnnotation"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
